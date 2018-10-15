@@ -1,6 +1,9 @@
 # compiled files
 target/*
 
+# logs
+logs/*
+
 # intellij project and directory
 *.iml
 .idea/*
